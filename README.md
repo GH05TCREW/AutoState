@@ -52,7 +52,7 @@ AutoState is an AI-powered tool that converts natural language scenarios into fi
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-repo/autostate.git
+git clone https://github.com/GH05TCREW/autostate.git
 cd autostate
 ```
 
