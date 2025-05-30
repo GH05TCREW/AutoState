@@ -4,19 +4,20 @@
 
 AutoState is an AI-powered tool that converts natural language scenarios into finite state machines (FSMs) and generates production-ready code. Perfect for security systems, safety protocols, workflow automation, and embedded systems.
 
+<img width="932" alt="Screenshot 2025-05-30 071858" src="https://github.com/user-attachments/assets/66d848c4-fada-4b2f-92c9-c290841ab020" />
+
 ## Key Features
 
-### **AI-Powered Parsing**
+### **AI Parsing**
 - Convert plain English scenarios into formal FSM transitions
 - GPT-4o integration for intelligent state extraction
 - Human-in-the-loop workflow with AI suggestions
 
-### **Advanced Visualization**
+### **Visualization**
 - **Multiple Layout Algorithms**: Hierarchical, Tree, Force-Directed, Circular
-- **Interactive Controls**: Zoom, pan, fit-to-view with smooth animations
-- **Smart Label Abbreviation**: Clean, readable transition labels
-- **Export Capabilities**: Download diagrams as high-quality PNG images
-- **Professional Styling**: Curved edges, shadows, optimized spacing
+- **Interactive Controls**: Zoom, pan, fit-to-view with animations
+- **Smart Label Abbreviation**: Transition labels
+- **Export Capabilities**: Download diagrams as PNG images
 
 ### **Verification & Analysis**
 - Determinism checking (no conflicting transitions)
@@ -29,6 +30,8 @@ AutoState is an AI-powered tool that converts natural language scenarios into fi
 - **YAML Policies**: For RBAC and configuration management
 - **C State Machines**: For embedded and real-time systems
 - **Template-based**: Customizable output formats
+
+<img width="922" alt="Screenshot 2025-05-30 064053" src="https://github.com/user-attachments/assets/230cbb3c-4706-46e6-bcf7-6d186919bd63" />
 
 ## Use Cases
 
@@ -149,8 +152,8 @@ class SystemStateMachine:
 - **Export PNG**: High-quality images for documentation
 - **Smart Labels**: Abbreviated text prevents overlap
 
-### **Professional Styling**
-- Color-coded elements (blue=initial, green=user, red=AI)
+### **Styling**
+- Color-coded elements (blue=initial, green=user, orange=AI)
 - Curved edges with proper routing
 - Drop shadows and professional typography
 - Responsive layout with hover tooltips
