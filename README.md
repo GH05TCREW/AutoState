@@ -214,7 +214,7 @@ Given device is fault, when reset command received, then clear errors and enter 
 - **Code Generator**: Multi-language template-based generation
 - **Database Layer**: SQLAlchemy ORM with SQLite
 
-## 🛠️ API Endpoints
+## API Endpoints
 
 ### **Scenarios**
 - `POST /api/scenarios/parse` - Parse natural language into FSM
